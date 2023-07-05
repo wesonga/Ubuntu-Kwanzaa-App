@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795339024304",
+    "firebase_url": "https://ubuntu-kwanzaa-default-rtdb.firebaseio.com",
+    "project_id": "ubuntu-kwanzaa",
+    "storage_bucket": "ubuntu-kwanzaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795339024304:android:e5d14da4a320db9b541875",
+        "android_client_info": {
+          "package_name": "com.next.goldentime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795339024304-p3s14epac6qtenmebennp9eludladg2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBulM05_VznQS-sDFolcAyCj7IL699G6Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795339024304-p3s14epac6qtenmebennp9eludladg2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
